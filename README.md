@@ -1,3 +1,5 @@
+# webpack-starter
+Este es el cascaron de mis app que usen webpack
 # webpack-configuracion-estandar
 Fin de la sección 8
 
